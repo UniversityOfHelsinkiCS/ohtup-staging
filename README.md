@@ -7,7 +7,7 @@ This staging server is meant to support application development during Universit
 - Read the `README` file at `/home/ohtup_user`.
 - **Only** use the user `ohtup_user`.
 - Put all of your group's stuff in your own folder located `/home/ohtup_user`.
-- If you need to configure the shared `nginx` server, see `/home/ohtup_user/nginx/README`.
+- If you need to configure the shared `caddy` server, see `/home/ohtup_user/caddy/README`.
 - *Be mindful of other users, this is a shared machine!*
 
 ## SSH Access
